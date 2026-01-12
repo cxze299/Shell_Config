@@ -49,7 +49,7 @@ https://nilesoft.org/download
 ## 截图 (Screenshots)
 <p align="center">
 <img src="/screenshots/folder-back.png"><img src="/screenshots/file-manage.png"><br>
-<img src="/screenshots/view.png"><img src="/screenshots/edit.png"><br>
+<img src="/screenshots/view.png"><br>
 <img src="/screenshots/terminal.png"><img src="/screenshots/taskbar.png"><br>
 <img src="/screenshots/goto2.png"><img src="/screenshots/gradient.png"><br>
 <img src="/screenshots/acrylic.png"><br>
