@@ -3,6 +3,7 @@
 <br>
 **··本仓库主要提供自用配置··**
 <br>
+**··本人系统为Win10··**
 
 <p align="center">
  <img src="https://www.nilesoft.org/images/logo-256.png">
